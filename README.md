@@ -3,6 +3,6 @@
 - C/C++
 
 # Projects:
-- [Donka AI](https://github.com/najdov/Donka-v1).
+- [Donka v1 Transformer](https://github.com/najdov/Donka-v1).
 - [Neural Network Playground](https://github.com/najdov/Neural-Net-Playground).
 - [Synthetic Aperature](https://github.com/najdov/synthetic-aperature).
