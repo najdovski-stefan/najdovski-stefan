@@ -1,1 +1,1 @@
-<h1 align="center"><b>Begginer in C/C++</b></h1>
+<h1 align="center"><b>C/C++</b></h1>
