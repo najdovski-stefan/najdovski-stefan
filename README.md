@@ -1,6 +1,6 @@
 <h1 align="center">Stefan <b>Najdov</b>ski</h1>
 
-- C/C++
+## C/C++
 
 # Projects:
 - [Donka v1 Transformer](https://github.com/najdov/Donka-v1).
